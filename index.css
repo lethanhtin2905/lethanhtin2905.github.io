@@ -1,0 +1,38 @@
+* {
+box-sizing: border-box;
+    }
+body {
+font-family: Tahoma;
+    font-size: 20px;
+    width: 1000px;
+margin: 0 auto;
+}
+body {
+padding-top: 20px;
+padding-bottom: 20px;
+background-image: url("images/background.jpg");
+background-size: cover;
+color : aqua;
+}
+
+.header {
+  padding: 10px;
+
+}
+img {
+border-radius:50%;
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+}
+
+#Image {
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 500px;
+    height: 10px;
+    width: 100px;
+}
+
+#Image img{
+    width: 350px;
+}
